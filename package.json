@@ -1,0 +1,12 @@
+{
+  "name": "bull-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bull": "^4.1.4",
+    "node-fetch": "^2.6.6"
+  }
+}
